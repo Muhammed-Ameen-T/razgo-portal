@@ -1,10 +1,3 @@
-This `README.md` is written from the perspective of a **Founding Engineer**. It focuses on **architectural decisions** and **technical maturity** to show your evaluators that you aren't just writing code, but building a product.
-
----
-
-# README.md
-
-```markdown
 # RazGo | Scalable Job Talent Marketplace 🚀
 
 **RazGo** is a high-performance, full-stack career platform built using the **MERN** stack (MongoDB, Express, React, Node.js). It is architected with a focus on **type-safety**, **clean separation of concerns**, and **enterprise-grade communication layers**.
@@ -126,17 +119,6 @@ npm run dev
 
 ## 👨‍💻 Author
 
-**[Your Name]** *Senior MERN Stack Developer & Tech Lead*
+**Muhammed Ameen T** *MERN Stack Developer*
 
 ---
-
-```
-
-### **What this shows the evaluator:**
-1.  **Professionalism:** You use industry-standard terms like "RBAC," "Atomic Design," and "Stateless Auth."
-2.  **Organization:** The structure makes it clear you know how to manage a large codebase.
-3.  **Vision:** The roadmap shows you are thinking about the business's future, not just today's task.
-
-**Would you like me to refine the "Setup & Installation" steps if you are using specific tools like Docker or PNPM?**
-
-```
