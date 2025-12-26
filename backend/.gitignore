@@ -1,0 +1,8 @@
+.env
+.env.production
+/node_modules
+/logging
+/.vscode
+.idea
+.dist
+.qodana.yaml
