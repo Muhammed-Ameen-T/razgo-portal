@@ -2,7 +2,7 @@
 
 **RazGo** is a high-performance, full-stack career platform built using the **MERN** stack (MongoDB, Express, React, Node.js). It is architected with a focus on **type-safety**, **clean separation of concerns**, and **enterprise-grade communication layers**.
 
----
+--- 
 
 ## 🏗️ Architectural Overview
 
